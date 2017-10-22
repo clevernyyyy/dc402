@@ -3,14 +3,17 @@
 ## Requirements
 
 * npm
+  * https://www.npmjs.com/get-npm
 * gatsby
+  * `npm install --global gatsby-cli`
 
 ## First Install
 
-1. `npm install --global gatsby-cli`
-2. `npm i`
-3. `npm run dev`
-4. Open localhost:8000
+### Running on localhost
+
+1. `npm i`
+2. `npm run dev`
+3. Open localhost:8000
 
 
 
